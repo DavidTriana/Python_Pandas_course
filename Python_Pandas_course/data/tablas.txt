@@ -1,0 +1,24 @@
+Pintor y Cuadro más famoso
+Leonardo da Vinci y La Gioconda  
+Vincent van Gogh y La noche estrellada  
+Pablo Picasso y Guernica  
+Claude Monet y Impresión, sol naciente  
+Salvador Dalí y La persistencia de la memoria  
+Frida Kahlo y Las dos Fridas  
+Rembrandt van Rijn y La ronda de noche  
+Diego Velázquez y Las meninas  
+Jackson Pollock y Número 1 (Lavender Mist)  
+Georgia O'Keeffe y Jimson Weed  
+Fecha,Ciudad,Temperatura Mínima,Temperatura Máxima,Precipitaciones
+2025-05-01,Madrid,12,25,Sol
+2025-05-01,Berlín,8,18,Nubes
+2025-05-01,París,10,20,Lluvia
+2025-05-01,Oslo,2,9,Nieve
+2025-05-01,Tokio,14,23,Sol
+2025-05-01,Londres,9,17,Lluvia
+2025-05-01,Nueva York,11,21,Nubes
+2025-05-01,Sydney,16,26,Sol
+2025-05-01,Moscú,3,11,Nieve
+2025-05-01,Bogotá,10,19,Lluvia
+2025-05-01,El Cairo,18,32,Sol
+2025-05-01,México D.F.,13,27,Granizo
