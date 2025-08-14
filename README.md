@@ -1,4 +1,4 @@
-# Python Course: Data Analysis and Manipulation with Pandas
+# Python Course: Exploring, Transforming, and Visualizing Data Tables with Pandas in Python.
 
 This repository contains the materials and examples used in an introductory course on **Pandas** and other libraries from the Python scientific ecosystem.  
 All functions and methods demonstrated in the course are explicitly referenced to the **official documentation** within the notebook itself, ensuring accuracy and encouraging further learning.  
